@@ -1,8 +1,8 @@
 # N-Plot
 Plots Nginx URL hits by on a graph parsing an access log file.
 
-![cli](/doc/output_1.png)
-![server](/doc/output_2.png)
+![cli](/doc/output_2.png)
+![server](/doc/output_1.png)
 
 # Instructions
 - Clone the repository
