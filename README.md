@@ -1,5 +1,5 @@
 # N-Plot
-Plots Nginx URL hits by on a graph parsing an access log file.
+Plots Nginx URL hits on a graph by parsing an access log file.
 
 ![cli](/doc/output_2.png)
 ![server](/doc/output_1.png)
